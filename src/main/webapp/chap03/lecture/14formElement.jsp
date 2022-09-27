@@ -26,7 +26,7 @@ String address = request.getParameter("address");
 
 %>
 
-<p><%= name  %>님은 <%= address %> 에 삽니다.
+<p><%= name  %>님은 <%= address %>에 삽니다.
 
 
 </body>

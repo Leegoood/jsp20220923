@@ -16,14 +16,14 @@
 <%-- text input field --%>
 <%-- name attribute : 쿼리스트링을 완성할 때 사용될 파라미터 이름 --%>
 
-<input type="text" name="coffee"/>
+<input type="text" name="coffee">
 
 <%-- submit button --%>
 <input type="submit" />
 
 </form>
 
-<hr />
+<hr>
 
 <%
 String val = request.getParameter("coffee");

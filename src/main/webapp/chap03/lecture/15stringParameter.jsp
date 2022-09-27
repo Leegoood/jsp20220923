@@ -22,7 +22,11 @@ if(x != null){
 }
 %>
 
+
+
 <p><%= x %>의 제곱은 <%= numX * numX %> 입니다.</p>
+
+
 
 </body>
 </html>
